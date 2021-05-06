@@ -1,4 +1,4 @@
-NAME = nugaon/openldap-with-kerberos
+NAME = offlinedevops/openldap-with-kerberos
 VERSION = 1.5.0
 
 .PHONY: build build-nocache test tag-latest push push-latest release git-tag-version
